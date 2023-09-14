@@ -21,7 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\css\" />
+    <ProjectReference Include="..\BusinessLogic.app\BusinessLogic.app.csproj" />
+    <ProjectReference Include="..\DataAccess.app\DataAccess.app.csproj" />
   </ItemGroup>
 
 </Project>

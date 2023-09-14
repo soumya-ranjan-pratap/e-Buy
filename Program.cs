@@ -1,3 +1,8 @@
+using DataAccess.app.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+
 namespace e_Buy.app
 {
     public class Program
@@ -6,10 +11,14 @@ namespace e_Buy.app
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            var Configuration = builder.Configuration;
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+			builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MyConn")));
+            builder.Services.AddIdentity<User, Role>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
-            var app = builder.Build();
+			var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -24,6 +33,7 @@ namespace e_Buy.app
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

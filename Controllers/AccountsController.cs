@@ -8,5 +8,10 @@ namespace e_Buy.app.Controllers
         {
             return View();
         }
-    }
+
+		public IActionResult SignUp()
+		{
+			return View();
+		}
+	}
 }

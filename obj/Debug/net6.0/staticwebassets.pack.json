@@ -5,6 +5,426 @@
       "PackagePath": "staticwebassets\\e-Buy.app.bundle.scp.css"
     },
     {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\css\\main.css",
+      "PackagePath": "staticwebassets\\LoginCss\\css\\main.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\css\\util.css",
+      "PackagePath": "staticwebassets\\LoginCss\\css\\util.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\LoginCss\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\LoginCss\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\LoginCss\\images\\img-01.png"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\js\\main.js",
+      "PackagePath": "staticwebassets\\LoginCss\\js\\main.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\LoginCss\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginCss\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
       "Id": "D:\\e-Buy.app\\wwwroot\\assets\\css\\flex-slider.css",
       "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
     },
@@ -187,6 +607,10 @@
     {
       "Id": "D:\\e-Buy.app\\wwwroot\\assets\\js\\slick.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\e-Buy.app\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\e-Buy.app\\wwwroot\\favicon.ico",
